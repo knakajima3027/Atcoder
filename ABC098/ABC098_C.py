@@ -1,12 +1,12 @@
 N = int(input())
-S = input(
-        )
+S = input()
+
 min_num = 10**7
 west_num = [0]
 east_num = [0]
 w_max = 0
-e_max = 
-0
+e_max = 0
+
 for i in range(0, N): #累積和を求める.
     if S[i] == 'W':
         w_max += 1
