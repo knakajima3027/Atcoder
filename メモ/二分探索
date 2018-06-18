@@ -1,0 +1,4 @@
+二分探索
+import bisect
+bisect.bisect_right
+bisect.bisect_left
