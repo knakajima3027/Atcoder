@@ -1,6 +1,4 @@
 # Atcoder
-Atcoderの問題管理.</br>
-コンテスト以外で解いた問題を載せています.
-
 Atcoder: http://atcoder.jp
-アカウント名: kNakajima
+アカウント: http://atcoder.jp/user/kNakajima
+初期の頃に解いた問題, コンテスト攻略のメモを管理しています.
